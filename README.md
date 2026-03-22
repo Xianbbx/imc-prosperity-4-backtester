@@ -31,7 +31,8 @@ If you see: `No module named 'datamodel'`, set PYTHONPATH to the folder containi
 **Run/Debug from Pycham**
 
 Add Run/Debug Configuration:
-![Backtester Architecture](images/pycharm.png)
+
+![Pycham Config](images/pycharm.png)
 ---
 ## Overall Structure & How It Works
 
